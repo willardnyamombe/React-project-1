@@ -1,0 +1,10 @@
+.add-Goal {
+    margin: 0 2rem;
+    padding: 2rem 0;
+}
+.add-Goal button {
+    background-color: orangered;
+    color: white;
+    border-radius: 1rem;
+    border-color: white;
+}
